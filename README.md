@@ -13,5 +13,9 @@ With Anicare, you can ensure the well-being and happiness of your pets with ease
 # Team Name : Pawsperity 
 ## Team Member : 
 - Md Rizabul 
-- Udit Sangwan
+- Uday Singhal
+- Riya Jain
 - Titiksha Sharma
+
+
+
